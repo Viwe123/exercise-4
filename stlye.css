@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+.btn{
+    border-radius:111px;
+    color: blue;
+}
+img{
+   float: right;
+   margin-right: 52px;
+   margin-left: 52px;
+   border:none;
+  
+   max-width: 80px;
+   height: auto;
+
+}
